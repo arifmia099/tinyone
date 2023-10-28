@@ -1,2 +1,1 @@
-# tinyone
-tinyone(frist part)
+fristpart:https://arifmia099.github.io/tinyone/
